@@ -1,13 +1,17 @@
-personal-website
+My Personal Website
 ================
 
 My personal homepage at www.stanford.edu/~aled1337
 
-Information Architecture:
+Information Architecture
+-
 
-Main Page
+#### Main Page ####
 
 -Mechanical Engineering Work
+
 -Digital Work
+
 -Fun Projects
+
 -About Me / Contact Page
