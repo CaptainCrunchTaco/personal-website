@@ -1,0 +1,187 @@
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+  color: #000;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+  background-color: 
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover, 
+.dropdown-menu > .active > a:focus {
+  color: #217c73;
+  text-decoration: none;
+  background-color: #dad7c9;
+  outline: 0;
+}
+
+.dropdown-menu > li > a {
+  color: #217c73;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 40px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  .featurette-heading {
+    margin-top: 70px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}
+
+
+/* Other CSS
+----------------------------------------------- */
+
+.dropdown-menu {
+  background-color: #f3efe0;
+}
+
+.navbar-default {
+  background-color: #f3efe0;
+  border-color: #aaa79c;
+}
+
+.navbar-default .navbar-brand {
+  color: #217c7e;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: #217c7e;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #217c7e;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #217c73;
+  background-color: #dad7c9;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #217c73;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+  color: #217c73;
+  background-color: #dad7c9;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+  color: #000;
+}
+
+.green-text {
+  color:#217c7e;
+}
+
+.red-text {
+  color: #9A3334;
+}
+
+.blue-text {
+  color:#3399ff;
+}
+
+
+/* Other CSS - for Contact Page
+----------------------------------------------- */
+
+#contact-page-row {
+  margin-top: 40px;
+}
+
+.contact-me-text {
+  margin-top:60px;
+  margin-bottom: 20px;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+  font-size: 60px;
+}
+
+.btn-green {
+  font-size:20px;
+  color: #f3efe0;
+  background-color: #217c7e;
+  border-color: #4cae4c;
+  margin-bottom: 30px;
+}
+.btn-green:hover,
+.btn-green:focus,
+.btn-green:active,
+.btn-green.active,
+.open .dropdown-toggle.btn-green {
+  color: #fff;
+  background-color: #47a447;
+  border-color: #398439;
+}
+.btn-green:active,
+.btn-green.active,
+.open .dropdown-toggle.btn-green {
+  background-image: none;
+}
+.btn-green.disabled,
+.btn-green[disabled],
+fieldset[disabled] .btn-green,
+.btn-green.disabled:hover,
+.btn-green[disabled]:hover,
+fieldset[disabled] .btn-green:hover,
+.btn-green.disabled:focus,
+.btn-green[disabled]:focus,
+fieldset[disabled] .btn-green:focus,
+.btn-green.disabled:active,
+.btn-green[disabled]:active,
+fieldset[disabled] .btn-green:active,
+.btn-green.disabled.active,
+.btn-green[disabled].active,
+fieldset[disabled] .btn-green.active {
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+.btn-green .badge {
+  color: #5cb85c;
+  background-color: #fff;
+}
+
+.envelope-space {
+  margin-right:10px;
+}
+
+
+
+
+
+
+
+

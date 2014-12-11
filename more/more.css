@@ -1,0 +1,32 @@
+.subheadline {
+	color:#9A3334;
+	font-weight: 500;
+}
+
+/*.jumbotron {
+	padding: 0px 0px;
+}*/
+
+img {
+	height: 450px;
+	width: 459px;
+}
+
+.featurette-heading {
+	margin-top: 0px;
+}
+
+@media screen and (max-width: 992px) {
+	.featurette-heading {
+		margin-top:20px;
+		text-align: center;
+	}
+	.lead {
+		text-align: center;
+		margin-top:10px;
+	}
+}
+
+.end-note {
+	margin:0px;
+}
